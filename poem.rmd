@@ -16,6 +16,12 @@ you, if you change any of this the git program will notice it and compromise you
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
 
+'Tis the voice of the Lobster: I heard him declare  
+"You have baked me too brown, I must sugar my hair."  
+As a duck with its eyelids, so he with his nose  
+Trims his belt and his buttons, and turns out his toes.  
+When the sands are all dry, he is gay as a lark
+
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
 
